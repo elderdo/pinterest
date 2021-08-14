@@ -14,3 +14,5 @@ While working on this project I'm using the following:
 For uninstalling Node I followed the steps list [here](https://stackoverflow.com/questions/20711240/how-to-completely-remove-node-js-from-windows/20711410#20711410)
 
 For setting up bootstrap for my version of Rails, I followed this [blog](https://blog.makersacademy.com/how-to-install-bootstrap-and-jquery-on-rails-6-da6e810c1b87) and here's my [Google search](https://www.google.com/search?q=how-to+setup+bootstrap-sprockets+for+ruby+on+rails+6.1.4&rlz=1C1CHBF_enUS912US912&oq=how-to+setup+bootstrap-sprockets+for+ruby+on+rails+6.1.4&aqs=chrome..69i57.48559j0j7&sourceid=chrome&ie=UTF-8) on the topic.
+
+FYI - this is a cool [blog](https://blog.makersacademy.com/) for coders with a lot of good coding tips and [Codecademy](https://www.codecademy.com/learn/learn-ruby) is a good place to start learning Ruby.
