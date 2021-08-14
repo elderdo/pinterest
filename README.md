@@ -5,9 +5,9 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 2.7.2
 
-* System dependencies
+* System dependencies - see Gemfile
 
 * Configuration
 
@@ -21,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* See my [LessonsLearned.md](https://github.com/elderdo/pinterested/blob/master/LessonsLearned.md)
