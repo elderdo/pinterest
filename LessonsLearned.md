@@ -1,3 +1,4 @@
+Codemy Project for [Ruby On Rails For Web Development] (https://codemy.com/learning-ruby-rails-web-development/)
 While working on this project I'm using the following:
 * Ruby 2.7.2
 * Rails 6.1.4
